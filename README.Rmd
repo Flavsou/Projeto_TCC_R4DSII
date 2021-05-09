@@ -7,7 +7,7 @@ output: github_document
 # Uma Análise sobre Pokémon
 
 ```{r echo=FALSE, message=FALSE, warning=FALSE, fig.align='center'}
-knitr::include_graphics("https://static.quizur.com/i/b/57c78762b8b1b5.878028411468832939987.jpg")
+knitr::include_graphics("https://plebegaming.files.wordpress.com/2016/10/nintendo-pokemon.jpg")
 ```
 
 
