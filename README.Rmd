@@ -1,0 +1,13 @@
+---
+output: github_document
+---
+
+<!-- README.md is generated from README.Rmd. Please edit that file -->
+
+# Uma Análise sobre Pokémon
+
+```{r echo=FALSE, message=FALSE, warning=FALSE, fig.align='center'}
+knitr::include_graphics("http://2.bp.blogspot.com/-i0eXMGuUl3Q/TyrF2WUCCUI/AAAAAAAAAIs/mHH1HIEOB4s/s640/pokemon+wallpaper.jpg")
+```
+
+
