@@ -26,7 +26,8 @@ A base de dados “Pokémon” possui informações sobre peso, altura,
 geração, nível de hp, de ataque, de defesa, de velocidade e de ataque e
 defesa especiais para 949 variedades de pokémons. Além disso, a base de
 dados ainda traz informações sobre o tipo do pokemón, sua cor e sua
-imagem.
+imagem. A base pode ser encontrada
+[aqui](https://github.com/curso-r/202104-r4ds-2/blob/master/data/pokemon.rds).
 
 <img src="https://camo.githubusercontent.com/5d782bc05a528103a38976ddb69634c4fa3603014eb3c69b7adc764213a4072f/68747470733a2f2f696d672e72616e6b6564626f6f73742e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031362f30372f506f6b656d6f6e2d476f2d506f6b2543332541396465782d333030783232392e706e67" style="display: block; margin: auto;" />
 

@@ -1,5 +1,7 @@
 `%>%` <- magrittr::`%>%`
 
+source("R/Remover NA.R")
+
 pokemon <- readr::read_rds("data/pokemon.rds") %>%
   tirando_na(id_geracao)
 
